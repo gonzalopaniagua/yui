@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://8n7vlqq7l4.execute-api.eu-central-1.amazonaws.com/prod/v1",
+  baseURL: "https://y66eiympjd.execute-api.eu-central-1.amazonaws.com/prod/v1",
   headers: {
     "Content-Type": "application/json",
   },
